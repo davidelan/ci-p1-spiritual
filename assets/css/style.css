@@ -153,3 +153,24 @@ footer>p {
     color: black;
 }
 /* FOOTER END --------------- */
+
+
+/* ************************ MEDIA QUERIES ************************* */
+
+/* **************************************************************** */
+/* Media query tablets and larger (768px and up) */
+/* **************************************************************** */
+@media screen and (min-width: 768px) {
+
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+        top: 100%;
+    }
+
+}
+    /* ********* END **********(768px and up)************************** */
