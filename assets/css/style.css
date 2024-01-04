@@ -189,5 +189,20 @@ footer>p {
     }
 
 
+    /* **************** Index.html ***************** */
+    #description-yoga,
+    #description-meditation {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+
+
+    /* ****************** classes.html ************** */
+    #main-classes {
+        /* Push main content down to accomodate larger header */
+        margin-top: 20px;
+    }
 }
     /* ********* END **********(768px and up)************************** */
