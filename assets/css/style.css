@@ -240,6 +240,16 @@ header>a>h1 {
     text-align: left;
  }
 
+ .classes-time {
+    background: black;
+    flex: 0 1 21.875rem;
+    margin-top: 1.56rem;
+    margin-bottom: 10px;
+    background-color: rgba(247, 197, 204, 0.8);
+    padding-bottom: 5px;
+    border: 1px solid black;
+ }
+
 /* --------- css for contact.html ------------ */
 
 
