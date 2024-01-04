@@ -30,6 +30,10 @@ header {
     align-items: center;
 }
 
+header a {
+    text-decoration: none;
+}
+
 #menu {
     font-size: 130%;
     letter-spacing: 4px;
@@ -184,6 +188,10 @@ footer>p {
         padding-left: 1rem;
     }
 
+    #menu a:hover {
+        border-bottom: 1px solid #3a3a3a;
+    }
+
     .active {
         border-bottom: 1px solid #3a3a3a;
     }
@@ -212,3 +220,6 @@ footer>p {
    
 }
     /* ********* END **********(768px and up)************************** */
+
+
+    
