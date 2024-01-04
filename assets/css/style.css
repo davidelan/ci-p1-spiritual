@@ -222,4 +222,36 @@ footer>p {
     /* ********* END **********(768px and up)************************** */
 
 
+    /* **************************************************************** */
+/* Media query laptops and larger (1200px and up) */
+/* **************************************************************** */
+@media screen and (min-width: 1200px) {
+
+    #descriptions {
+        display: flex;
+        flex-direction: row;
+    }
+
+    #descriptions>div {
+        flex: 1;
+    }
+
+    #descriptions-image {
+        order: 0;
+    }
+
+    #description-meditation {
+        order: 1;
+    }
+
+    #description-meditation>div {
+        align-self: flex-start;
+    }
+
+    #description-yoga>div {
+        align-self: flex-end;
+    }
+
+}
+/* ******************(1200px and up)**************************** */
     
