@@ -263,6 +263,16 @@ header>a>h1 {
    margin-bottom: 10px;
 }
 
+.classes-time span {
+    margin-top: 0.625rem;
+    letter-spacing: 0.125rem;
+    font-size: 1.17rem;
+    text-transform: uppercase;
+    font-family: 'Shadows Into Light', sans-serif;
+    color: var(--darkgrey);
+    text-decoration: underline;
+ }
+
  .classes-header {
     border-bottom: 0.15rem solid #59606d;
     border-radius: 0;
