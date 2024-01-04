@@ -172,5 +172,19 @@ footer>p {
         top: 100%;
     }
 
+    .nav-toggle-label {
+        display: none;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu>li {
+        padding-left: 1rem;
+    }
+
+
+
 }
     /* ********* END **********(768px and up)************************** */
