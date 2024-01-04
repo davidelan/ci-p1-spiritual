@@ -250,6 +250,19 @@ header>a>h1 {
     border: 1px solid black;
  }
 
+ .classes-time>h2 {
+    letter-spacing: 0.05rem;
+    font-weight: 600;
+    color: gray;
+}
+
+.classes-time p {
+   letter-spacing: 0.05rem;
+   font-weight: 600;
+   color: #59606d;
+   margin-bottom: 10px;
+}
+
  .classes-header {
     border-bottom: 0.15rem solid #59606d;
     border-radius: 0;
