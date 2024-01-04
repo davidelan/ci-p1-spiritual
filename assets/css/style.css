@@ -74,6 +74,12 @@ nav {
     font-size: 2rem;
 }
 
+/* Page Section */
+#page {
+    width: 90%;
+    margin: 50px auto;
+}
+
 
 /* FOOTER ----------------- */
 
