@@ -80,6 +80,13 @@ nav {
     margin: 50px auto;
 }
 
+#page h2 {
+    margin-bottom: 70px;
+    text-align: center;
+    font-size: 340%;
+    font-family: 'Shadows Into Light', sans-serif;
+}
+
 
 /* FOOTER ----------------- */
 
