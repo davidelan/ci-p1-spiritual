@@ -197,12 +197,13 @@ footer>p {
         width: 100%;
     }
 
+    #description-yoga>div,
+    #description-meditation>div {
+        width: 75%;
+    }
 
 
     /* ****************** classes.html ************** */
-    #main-classes {
-        /* Push main content down to accomodate larger header */
-        margin-top: 20px;
-    }
+   
 }
     /* ********* END **********(768px and up)************************** */
