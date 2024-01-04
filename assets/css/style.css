@@ -87,6 +87,16 @@ nav {
     font-family: 'Shadows Into Light', sans-serif;
 }
 
+#page-image {
+    background: url('../images/yoga_photo_2.jpg') no-repeat bottom center / cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 35px;
+    /* Makes the square image into a circle */
+    /* border-radius: 50%; */
+    max-width: 600px;
+    max-height: 800px;
+}
 
 /* FOOTER ----------------- */
 
