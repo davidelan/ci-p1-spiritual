@@ -213,6 +213,33 @@ header>a>h1 {
      border-radius: 10px;
  }
 
+ .wrapper-classes {
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+    justify-content: space-around;
+    max-width: 100%;
+    margin-top: 10px;
+    margin-bottom: 75px;
+    padding: 0 1.25rem;
+    align-items: flex-start;
+ 
+ }
+ 
+ .wrapper-classes div {
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+    justify-content: space-between;
+ }
+ 
+ .wrapper-classes * {
+    margin: 0 0.625rem;
+    flex: 1 100%;
+    border-radius: 10px;
+    text-align: left;
+ }
+
 /* --------- css for contact.html ------------ */
 
 
