@@ -30,6 +30,20 @@ header {
     align-items: center;
 }
 
+#menu {
+    font-size: 130%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
+#menu>li {
+    margin-bottom: 1em;
+}
+
+#menu>li a {
+    margin-bottom: 1em;
+    color: black;
+}
 
 /* FOOTER ----------------- */
 
