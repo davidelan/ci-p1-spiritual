@@ -358,7 +358,15 @@ header>a>h1 {
         margin-top: 20px;
         margin-bottom: 30px;
         }
-   
+        
+        /* remove default image for small screens */
+        .classes_image {
+            display: none;
+        }
+    
+        .classes_image img {
+           display: none;
+        }
 }
     /* ********* END **********(768px and up)************************** */
 
