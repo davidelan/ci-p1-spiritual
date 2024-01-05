@@ -394,6 +394,20 @@ header>a>h1 {
     margin: 0;
  }
 
+ /* --------- css for thanks.html ------------ */
+ #thanks {
+    color: #59606d;
+    background-color: rgba(247, 197, 204, 1);
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    margin-top: 180px;
+    font-size: 150%;
+}
+
+#style-text {
+    font-family: 'Shadows Into Light', sans-serif;
+}
+
 /* ************************ MEDIA QUERIES ************************* */
 
 /* **************************************************************** */
