@@ -294,9 +294,12 @@ header>a>h1 {
     font-weight: bold;
  }
 
+ .fa-regular {
+    margin-bottom: 5px;
+}
+
 
 /* --------- css for contact.html ------------ */
-
 #contact-section {
    background-image: url("../images/spiritual_photo_1.jpg");
    background-repeat: no-repeat;
@@ -401,7 +404,7 @@ header>a>h1 {
     font-family: 'Oswald', sans-serif;
     text-align: center;
     margin-top: 180px;
-    font-size: 150%;
+    font-size: 180%;
 }
 
 #style-text {
