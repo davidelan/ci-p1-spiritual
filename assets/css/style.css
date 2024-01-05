@@ -28,6 +28,12 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    width: 100%;
+    height: 65px;
+    right: 0%;
+    top: 0%;
+    position: fixed;
+    z-index: 99; /* to prevent map image in contact to go over header when scrolling */
 }
 
 header a {
@@ -39,7 +45,7 @@ header a {
     font-size: 130%;
     letter-spacing: 4px;
     list-style-type: none;
-    margin-top: 50px;
+    margin-top: 10px;
     margin-bottom: 0px;
 }
 
@@ -67,6 +73,7 @@ nav {
     display: none;
     top: 120px;
 }
+
 
 /* Nav toggle */
 #nav-toggle:checked~nav {
@@ -133,6 +140,7 @@ header>a>h1 {
     text-align: center;
     font-size: 340%;
     font-family: 'Shadows Into Light', sans-serif;
+    margin-top: 120px;
 }
 
 #page-image {
@@ -171,7 +179,7 @@ header>a>h1 {
 /* --------- css for classes.html ------------ */
 #welcome {
     width: 90%;
-    margin: 10px auto;
+    margin-top: 120px;
 }
 
 #welcome h2 {
@@ -304,8 +312,9 @@ header>a>h1 {
         position: relative;
         box-shadow: none;
         width: fit-content;
+        height: 30px;
         padding-right: 1rem;
-        top: 100%;
+        top: 10px;
     }
 
     .nav-toggle-label {
