@@ -367,6 +367,11 @@ header>a>h1 {
         .classes_image img {
            display: none;
         }
+
+        #explain {
+            margin: 1.125rem auto 4rem auto;
+            font-size: 180%;
+        }
 }
     /* ********* END **********(768px and up)************************** */
 
