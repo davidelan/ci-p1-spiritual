@@ -293,9 +293,22 @@ header>a>h1 {
     letter-spacing: 0.25rem;
     font-weight: bold;
  }
+ 
 
 /* --------- css for contact.html ------------ */
 
+#contact-section {
+    background-image: url("../images/spiritual_photo_1.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    width: 100%;
+    overflow: visible;
+    min-height: 56.25rem;
+    padding-top: 1px;
+    margin-top: 40px;
+    margin-bottom: 110px;
+ }
 
 
 
