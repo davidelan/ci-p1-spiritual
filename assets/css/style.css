@@ -347,6 +347,17 @@ header>a>h1 {
 
 
     /* ****************** classes.html ************** */
+    #classes-section {
+        background-image: url("../images/yoga_photo_4_hero.jpg");
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        max-width: 100%;
+        overflow: hidden;
+        min-height: 50%;
+        margin-top: 20px;
+        margin-bottom: 30px;
+        }
    
 }
     /* ********* END **********(768px and up)************************** */
