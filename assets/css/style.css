@@ -293,23 +293,42 @@ header>a>h1 {
     letter-spacing: 0.25rem;
     font-weight: bold;
  }
- 
+
 
 /* --------- css for contact.html ------------ */
 
 #contact-section {
-    background-image: url("../images/spiritual_photo_1.jpg");
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center;
-    width: 100%;
-    overflow: visible;
-    min-height: 56.25rem;
-    padding-top: 1px;
-    margin-top: 40px;
-    margin-bottom: 110px;
- }
+   background-image: url("../images/spiritual_photo_1.jpg");
+   background-repeat: no-repeat;
+   background-size: contain;
+   background-position: center;
+   width: 100%;
+   overflow: visible;
+   min-height: 56.25rem;
+   padding-top: 1px;
+   margin-top: 120px;
+   margin-bottom: 90px;
+}
 
+#contact-div-wrap {
+    width: 80rem;
+    margin: 4.6875rem auto;
+ }
+ 
+ .contact-div {
+    text-align: left;
+    font-weight: 600;
+    letter-spacing: 0.06875rem;
+    font-size: 110%;
+    background-color: rgba(247, 197, 204, 0.7);
+    border-radius: 10px;
+    padding: 1.875rem;
+    height: 40.5rem;
+    border: 1px solid black;
+    color: #4b525e; /* a bit darker color for the Contact page for better contrast */
+    font-weight: bolder;
+ }
+ 
 
 
 /* ************************ MEDIA QUERIES ************************* */
