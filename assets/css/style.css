@@ -148,8 +148,6 @@ header>a>h1 {
     height: 90vw;
     width: 90vw;
     margin-bottom: 35px;
-    /* Makes the square image into a circle */
-    /* border-radius: 50%; */
     max-width: 600px;
     max-height: 800px;
 }
@@ -500,9 +498,9 @@ header>a>h1 {
 
 
     /* **************************************************************** */
-/* Media query laptops and larger (1200px and up) */
+/* Media query laptops and larger (1300px and up) */
 /* **************************************************************** */
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1300px) {
 
     #descriptions {
         display: flex;
@@ -529,6 +527,28 @@ header>a>h1 {
         align-self: flex-end;
     }
 
+    /* **************** Contact.html ***************** */
+    #contact-section {
+        width: 90%;
+        margin: 105px auto 80px auto;
+    }
+    
+    #contact-div-wrap {
+        width: 80rem;
+        margin: 4.6875rem auto;
+    }
+    
+    #contact-div-left {
+        width: 25rem;
+        float: left;
+        margin: auto auto auto 120px;
+    }
+    
+    #contact-div-right {
+        width: 25rem;
+        float: right;
+        margin: auto 120px auto auto;
+    }
 }
-/* ******************(1200px and up)**************************** */
+/* ******************(1300px and up)**************************** */
     
