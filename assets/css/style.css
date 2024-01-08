@@ -184,7 +184,7 @@ header>a>h1 {
     text-align: center;
     font-size: 450%;
     font-family: 'Shadows Into Light', sans-serif;
-    margin-left: 0px 0px 0px 70px;
+    margin: 0px 0px 0px 70px;
 }
 
 .classes_image {
@@ -330,6 +330,7 @@ header>a>h1 {
     border: 1px solid black;
     color: #4b525e; /* a bit darker color for the Contact page for better contrast */
     font-weight: bolder;
+    margin: 70px 50px 30px 50px;
  }
  
  .contact-div h2 {
@@ -337,10 +338,6 @@ header>a>h1 {
     font-size: 180%;
     padding-bottom: 1.25rem;
     text-decoration: underline;
- }
- 
- #contact-div-left {
-     margin: 70px auto 30px auto;
  }
  
  #contact-div-right {
@@ -497,9 +494,9 @@ header>a>h1 {
 
 
     /* **************************************************************** */
-/* Media query laptops and larger (1300px and up) */
+/* Media query laptops and larger (1250px and up) */
 /* **************************************************************** */
-@media screen and (min-width: 1300px) {
+@media screen and (min-width: 1250px) {
 
     #descriptions {
         display: flex;
@@ -540,14 +537,14 @@ header>a>h1 {
     #contact-div-left {
         width: 25rem;
         float: left;
-        margin: auto auto auto 120px;
+        margin: 20px 50px 30px 30px;
     }
     
     #contact-div-right {
         width: 25rem;
         float: right;
-        margin: auto 120px auto auto;
+        margin: 20px 160px auto auto;
     }
 }
-/* ******************(1300px and up)**************************** */
+/* ******************(1250px and up)**************************** */
     
