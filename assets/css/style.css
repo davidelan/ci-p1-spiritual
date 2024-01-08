@@ -509,6 +509,7 @@ header>a>h1 {
 
     #descriptions-image {
         order: 0;
+        margin-bottom: 300px;
     }
 
     #description-meditation {
@@ -521,6 +522,14 @@ header>a>h1 {
 
     #description-yoga>div {
         align-self: flex-end;
+    }
+
+    #description-yoga p {
+        width: 300px;
+    }
+    
+    #description-meditation p {
+        width: 300px;
     }
 
     /* **************** Contact.html ***************** */
