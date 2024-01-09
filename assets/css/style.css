@@ -138,7 +138,7 @@ header>a>h1 {
 #page h2 {
     margin-bottom: 70px;
     text-align: center;
-    font-size: 450%;
+    font-size: 250%;
     font-family: 'Shadows Into Light', sans-serif;
     margin-top: 120px;
 }
@@ -162,6 +162,11 @@ header>a>h1 {
 #description-meditation>div {
     line-height: 20px;
     margin-bottom: 20px;
+}
+
+#description-yoga h2,
+#description-meditation h2 {
+    font-size: 200%;
 }
 
 #descriptions p {
