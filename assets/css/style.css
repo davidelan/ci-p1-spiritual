@@ -161,6 +161,13 @@ header>a>h1 {
     font-family: 'Oswald', sans-serif;
 }
 
+#description-yoga>div>h2 {
+    margin-left: 10px;
+}
+#description-meditation>div>h2 {
+    margin-right: 10px;
+}
+
 #descriptions p {
     margin-top: 100px;
     padding: 10px;
@@ -446,12 +453,11 @@ header>a>h1 {
     #description-meditation {
         display: flex;
         flex-direction: column;
-        width: 100%;
     }
 
     #description-yoga>div,
     #description-meditation>div {
-        width: 75%;
+        width: 90%;
     }
 
     #description-meditation>div {
@@ -519,14 +525,6 @@ header>a>h1 {
 
     #description-yoga>div {
         align-self: flex-end;
-    }
-
-    #description-yoga p {
-        width: 300px;
-    }
-    
-    #description-meditation p {
-        width: 300px;
     }
 
     /* **************** Contact.html ***************** */
