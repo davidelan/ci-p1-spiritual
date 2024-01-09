@@ -135,21 +135,13 @@ header>a>h1 {
     margin: 50px auto;
 }
 
-#page h2 {
-    margin-bottom: 70px;
-    text-align: center;
-    font-size: 250%;
-    font-family: 'Shadows Into Light', sans-serif;
-    margin-top: 120px;
-}
-
 #page-image {
     background: url('../images/yoga_photo_2.jpg') no-repeat bottom center / cover;
     height: 90vw;
     width: 90vw;
-    margin-bottom: 35px;
+    margin-bottom: 30px;
     max-width: 600px;
-    max-height: 800px;
+    max-height: 930px;
 }
 
 #descriptions-image {
@@ -164,8 +156,7 @@ header>a>h1 {
     margin-bottom: 20px;
 }
 
-#description-yoga h2,
-#description-meditation h2 {
+.descriptions-h2 {
     font-size: 200%;
     font-family: 'Oswald', sans-serif;
 }
