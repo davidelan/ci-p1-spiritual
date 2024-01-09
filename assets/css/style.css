@@ -315,13 +315,6 @@ header>a>h1 {
     margin-bottom: 90px;
  }
  
- /*
- #contact-div-wrap {
-    width: 80rem;
-    margin: 4.6875rem auto;
- }
- */
- 
  .contact-div {
     text-align: left;
     font-weight: 600;
@@ -331,10 +324,10 @@ header>a>h1 {
     border-radius: 10px;
     padding: 1.875rem;
     height: 40.5rem;
+    width: 80%;
     border: 1px solid black;
     color: #4b525e; /* a bit darker color for the Contact page for better contrast */
     font-weight: bolder;
-    margin: 70px 50px 30px 50px;
  }
  
  .contact-div h2 {
@@ -344,6 +337,13 @@ header>a>h1 {
     text-decoration: underline;
  }
  
+ #contact-div-left {
+    margin: 10px auto 30px auto;
+}
+
+#contact-div-right {
+    margin: 70px auto 30px auto;
+}
  #contact-div-right {
      margin-bottom: 100px;
  }
@@ -541,13 +541,13 @@ header>a>h1 {
     #contact-div-left {
         width: 25rem;
         float: left;
-        margin: 20px 50px 30px 30px;
+        margin: auto auto auto 120px;
     }
     
     #contact-div-right {
         width: 25rem;
         float: right;
-        margin: 20px 160px auto auto;
+        margin: auto 120px auto auto;
     }
 }
 /* ******************(1250px and up)**************************** */
