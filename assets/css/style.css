@@ -131,7 +131,7 @@ header>a>h1 {
 /* --------- css for index.html ------------ */
 /* Page Section */
 #page {
-    width: 90%;
+    width: 100%;
     margin: 50px auto;
 }
 
@@ -167,6 +167,7 @@ header>a>h1 {
 #description-yoga h2,
 #description-meditation h2 {
     font-size: 200%;
+    font-family: 'Oswald', sans-serif;
 }
 
 #descriptions p {
