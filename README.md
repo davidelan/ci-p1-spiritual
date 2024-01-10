@@ -4,7 +4,7 @@
 
 YogaMedit is a website that gives visibility and describes the ( imaginary :-) ) yoga and meditation studio situated in Berlin. The studio offers yoga nad meditation courses. THe site is targeted toward people who are interested in movement, physical flexibility, fitness, well being, stress relief, contemplation and self growth. The website is useful to people who want to check out the vision of the studio centre, the location and the classes schedule.
 
-![Mockup](documentation/supp-images/resp-mockup.png)
+![Mockup](documentation/supp-images/YogaMedit_Mockup.png)
 
 ## Index – Table of Contents
 * [User Experience (UX)](#user-experience-ux) 
