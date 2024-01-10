@@ -541,13 +541,13 @@ header>a>h1 {
     #contact-div-left {
         width: 25rem;
         float: left;
-        margin: auto auto auto 120px;
+        margin: auto auto auto 80px;
     }
     
     #contact-div-right {
         width: 25rem;
         float: right;
-        margin: auto 120px auto auto;
+        margin: auto 100px auto auto;
     }
 }
 /* ******************(1250px and up)**************************** */
