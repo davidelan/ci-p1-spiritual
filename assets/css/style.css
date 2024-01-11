@@ -457,7 +457,7 @@ header>a>h1 {
 
     #description-yoga>div,
     #description-meditation>div {
-        width: 90%;
+        width: 100%;
     }
 
     #description-meditation>div {
@@ -529,7 +529,7 @@ header>a>h1 {
 
     #description-yoga,
     #description-meditation {
-        margin-top: 100px;
+        margin-top: 90px;
     }
 
     /* **************** Contact.html ***************** */
