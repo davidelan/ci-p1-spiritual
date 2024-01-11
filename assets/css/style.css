@@ -139,9 +139,10 @@ header>a>h1 {
     background: url('../images/yoga_photo_2.jpg') no-repeat bottom center / cover;
     height: 90vw;
     width: 90vw;
-    margin-bottom: 30px;
     max-width: 600px;
     max-height: 930px;
+    position: relative;
+    margin-bottom: 90px;
 }
 
 #descriptions-image {
