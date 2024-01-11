@@ -46,4 +46,4 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
 
     - The navigation bar has a consistent look and placement on all three pages of the website supporting easy navigation. It is fixed, therefore always available to the user. It includes a simple Logo, Home page, Menu and Contact links and is responsive on multiple screen sizes. On small screens (e.g. mobile devices) the Home, Menu and Contact links move to under the Logo.
 
-      ![Navbar](documentation/supp-images/nav-bar.png)
+      ![Navbar](documentation/supp-images/nav-bar.jpg)
