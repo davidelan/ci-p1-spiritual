@@ -97,9 +97,10 @@ footer {
     color: white;
     text-align: center;
     padding: 2px;
-    bottom: 0%;
+    bottom: auto;
     width: 100%;
     height: 65px;
+    position: absolute;
 }
 
 footer>p {
@@ -553,7 +554,7 @@ footer>p {
     
     #contact-div-wrap {
         width: 75rem;
-        margin: 4.6875rem auto;
+        margin: 6rem auto;
     }
     
     #contact-div-left {
