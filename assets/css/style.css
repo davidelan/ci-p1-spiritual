@@ -527,6 +527,11 @@ header>a>h1 {
         align-self: flex-end;
     }
 
+    #description-yoga,
+    #description-meditation {
+        margin-top: 100px;
+    }
+
     /* **************** Contact.html ***************** */
     #contact-section {
         width: 95%;
