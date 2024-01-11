@@ -178,6 +178,24 @@ header>a>h1 {
     line-height: 1.5;
 }
 
+#button-index {
+    background-color: rgba(247, 197, 204, 1);
+    border-radius: 12px;
+    border-style: solid;
+    border-width: 1px 1px;
+    font-family: 'Oswald', sans-serif;
+    color: #4b525e; /* a bit darker color for the Contact page for better contrast */
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    position: absolute;
+    left: 50%;
+    width: 120px;
+    margin-left: -60px;
+    bottom: -65px;
+    height: 35px;
+}
+
 /* --------- css for classes.html ------------ */
 #welcome {
     width: 90%;
