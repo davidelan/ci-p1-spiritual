@@ -203,7 +203,7 @@ footer>p {
 
 #welcome h2 {
     text-align: center;
-    font-size: 450%;
+    font-size: 400%;
     font-family: 'Shadows Into Light', sans-serif;
     margin: 0px 0px 0px 70px;
 }
@@ -295,10 +295,10 @@ footer>p {
 .classes-time span {
     margin-top: 0.625rem;
     letter-spacing: 0.125rem;
-    font-size: 1.17rem;
+    font-size: 2rem;
     text-transform: uppercase;
     font-family: 'Shadows Into Light', sans-serif;
-    color: var(--darkgrey);
+    color: #59606d;
     text-decoration: underline;
  }
 
@@ -359,11 +359,8 @@ footer>p {
 }
 
 #contact-div-right {
-    margin: 70px auto 30px auto;
+    margin: 70px auto 100px auto;
 }
- #contact-div-right {
-     margin-bottom: 100px;
- }
  
  #contact-div-right p {
    height: 100px;
@@ -474,7 +471,7 @@ footer>p {
 
     #description-yoga>div,
     #description-meditation>div {
-        width: 100%;
+        width: 110%;
     }
 
     #description-meditation>div {
@@ -529,7 +526,6 @@ footer>p {
 
     #descriptions-image {
         order: 0;
-        margin-bottom: 300px;
     }
 
     #description-meditation {
