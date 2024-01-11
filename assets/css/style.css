@@ -131,7 +131,8 @@ header>a>h1 {
 /* --------- css for index.html ------------ */
 /* Page Section */
 #page {
-    width: 100%;
+    width: 80%;
+    height: 80%;
     margin: 50px auto;
 }
 
