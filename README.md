@@ -47,8 +47,10 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
     - The navigation bar has a consistent look and placement on all three pages of the website supporting easy navigation. It is fixed, therefore always available to the user. It includes a simple Logo, Home page, Menu and Contact links and is responsive on multiple screen sizes. On small screens (e.g. mobile devices) the Home, Menu and Contact links move to under the Logo.
 
       ![Navbar](documentation/supp-images/nav_bar.jpg)
-      
+
 
     __F02 Landing Page image and call to action__
 
     - The landing area includes a yoga photograph and two colums at each side of the image. On the left the heading Yoga with a brief descprition and on the right-hand-side the headin Meditation also with a small description. The descriptions explain the benefits of the two activities inviting the user to engage.
+
+    
