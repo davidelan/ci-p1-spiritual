@@ -53,4 +53,9 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
 
     - The landing area includes a yoga photograph and two colums at each side of the image. On the left the heading Yoga with a brief descprition and on the right-hand-side the headin Meditation also with a small description. The descriptions explain the benefits of the two activities inviting the user to engage.
 
+    - A "See our Classes" button is placed under the page image so that the user can directly go and check out the schedule of Yoga and Meditation classes.
+
+    ![Landing Area](documentation/supp-images/landing_page.png)
+
+
     
