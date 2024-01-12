@@ -104,7 +104,13 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
 
       ![Contact Us](documentation/supp-images/contact_us.jpg)
 
+- __F09 Thanks Page__
 
+    - After filling up the submitting form in the Contact page, the user can send a message to the studio. In this case a thanks page is displayed stating that the message has been received and thanking the visitor. Under the confirmation message there is a "Back to Home" button that allows the user to go bac to the home page. 
+
+      ![Contact Us](documentation/supp-images/thanks.jpg)
+
+      
 
 ### Features which could be implemented in the future
 
@@ -126,4 +132,3 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
 -   ### Typography
     -   In order to import the fonts Oswald, (Lato only in the submitting form) and Shadows Into Light, two Google fonts were imported in the CSS style file. In addiction to the already established simple and modern feelin of Oswald, I wanted to give an extra more artistic touch with the Shadows Into Light font.
 
-    
