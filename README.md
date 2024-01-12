@@ -42,14 +42,14 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
 
 ### Existing Features
 
--   __F01 Navigation Bar__
+- __F01 Navigation Bar__
 
     - The navigation bar has a consistent look and placement on all three pages of the website supporting easy navigation. It is fixed, therefore always available to the user. It includes a simple Logo, Home page, Menu and Contact links and is responsive on multiple screen sizes. On small screens (e.g. mobile devices) the Home, Menu and Contact links move to under the Logo (becomes an hamburger menu with a scroll down menu).
 
       ![Navbar](documentation/supp-images/nav_bar.jpg)
 
 
- -  __F02 Landing Page image and call to action__
+ - __F02 Landing Page image and call to action__
 
     - The landing area includes a yoga photograph and two colums at each side of the image. On the left the heading Yoga with a brief descprition and on the right-hand-side the headin Meditation also with a small description. The descriptions explain the benefits of the two activities inviting the user to engage.
 
@@ -81,7 +81,7 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
       ![Footer](documentation/supp-images/footer.jpg)
 
 
-      __F06 Classes Page__
+- __F06 Classes Page__
 
     - The classes page shows in a straight forward way the classes schedule for Yoga and the classes schedule for Meditation. The schedules are divided in two columns with the Yoga weekly classes on the left and the meditation ones in the left-hand side column.  
     
@@ -122,5 +122,8 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
 
 -   ### Colour Scheme
     -   The main scheme of the web site is a combination of background colour pink rgb(247, 197, 204) and gray #59606d for the fonts colour. There are a few exeptions in which a darker version of the gray was used #4b525e for a better contrast. The colors were chosen by me trying to convey a sense of calmness and relaxation which are typically associated with Yoga and Meditation.
+
+-   ### Typography
+    -   In order to import the fonts Oswald, (Lato only in the submitting form) and Shadows Into Light, two Google fonts were imported in the CSS style file. In addiction to the already established simple and modern feelin of Oswald, I wanted to give an extra more artistic touch with the Shadows Into Light font.
 
     
