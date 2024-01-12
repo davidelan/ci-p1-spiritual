@@ -55,7 +55,6 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
 
     - A "See our Classes" button is placed under the page image so that the user can directly go and check out the schedule of Yoga and Meditation classes.
 
-    ![Landing Area](documentation/supp-images/landing_page.png)
+    ![Landing Area](documentation/supp-images/landing_page.jpg)
 
 
-    
