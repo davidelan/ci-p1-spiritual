@@ -103,7 +103,7 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
     - In the "Contact us" part of the Contact page the visitor can easily send a message to the Yoga studio by entering the name, the email address and the text message. Once the submit button is pressed a thanks confirmation web page will open (described below in section 09). 
 
       ![Contact Us](documentation/supp-images/contact_us.jpg)
-      
+
 
 
 ### Features which could be implemented in the future
@@ -113,3 +113,11 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
 
 - __Extra Information__
     - The web site only presents the visitor with a minimal amount of information. A "Team" page could be added. Information about the vision, of the studio could be included. A blog with interesting information about the studio, yoga and meditation would also be good.
+
+
+## Design
+
+-   ### Imagery
+    - The three images slected for the 3 pages (two as background image and one as the page image) were chosen because they portray persons who engage in yoga activities and they are therefore eye-catching and inviting for the visitor. The sun and the moon associated with Yoga and Meditation in both the index and classes page gives a more pleasent and maybe spiritual look to the pages.  
+
+    
