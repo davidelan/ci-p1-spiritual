@@ -44,7 +44,7 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
 
 -   __F01 Navigation Bar__
 
-    - The navigation bar has a consistent look and placement on all three pages of the website supporting easy navigation. It is fixed, therefore always available to the user. It includes a simple Logo, Home page, Menu and Contact links and is responsive on multiple screen sizes. On small screens (e.g. mobile devices) the Home, Menu and Contact links move to under the Logo.
+    - The navigation bar has a consistent look and placement on all three pages of the website supporting easy navigation. It is fixed, therefore always available to the user. It includes a simple Logo, Home page, Menu and Contact links and is responsive on multiple screen sizes. On small screens (e.g. mobile devices) the Home, Menu and Contact links move to under the Logo (becomes an hamburger menu with a scroll down menu).
 
       ![Navbar](documentation/supp-images/nav_bar.jpg)
 
@@ -93,6 +93,7 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
 - __F07 Contact Page - 'How to Find Us'__
 
     - In the "How to Find Us" section of the page, there is a simple googlemap map which shows the location of the Yoga studio. If the "View larger map" is clicked, a new separate tab is open with the googlemap location. 
+    At the bottom of the map the full address is reported.
 
       ![Find Us](documentation/supp-images/find_us.jpg)
 
@@ -103,5 +104,5 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
 
       ![Contact Us](documentation/supp-images/contact_us.jpg)
 
-      
+
 
