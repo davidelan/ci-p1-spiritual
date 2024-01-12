@@ -411,14 +411,42 @@ footer>p {
  }
 
  /* --------- css for thanks.html ------------ */
+ #thanks-page {
+    width: 90%;
+    margin: 50px auto;
+    position: relative;
+    height: 160vw;
+    width: 90vw;
+    max-width: 600px;
+    max-height: 930px;
+}
+
  #thanks {
     color: #59606d;
     background-color: rgba(247, 197, 204, 1);
     font-family: 'Oswald', sans-serif;
     text-align: center;
-    margin-top: 15%;
-    margin-bottom: 30%;
+    margin-top: 150px;
     font-size: 180%;
+    position: relative;
+}
+
+#button-thanks {
+    background-color: rgba(247, 197, 204, 1);
+    border-radius: 12px;
+    border-style: solid;
+    border-width: 1px 1px;
+    font-family: 'Oswald', sans-serif;
+    color: #4b525e; /* a bit darker color for the Contact page for better contrast */
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    position: absolute;
+    left: 50%;
+    width: 120px;
+    margin-left: -60px;
+    bottom: 10%;
+    height: 35px;
 }
 
 #style-text {
@@ -480,6 +508,10 @@ footer>p {
         text-align: end;
         align-self: flex-end;
     }
+
+    #button-thanks {
+        bottom: 50%;
+        }
 
 
     /* ****************** classes.html ************** */
