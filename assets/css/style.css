@@ -421,7 +421,7 @@ footer>p {
     max-height: 930px;
 }
 
- #thanks {
+ #thanks-div {
     color: #59606d;
     background-color: rgba(247, 197, 204, 1);
     font-family: 'Oswald', sans-serif;
@@ -445,7 +445,7 @@ footer>p {
     left: 50%;
     width: 120px;
     margin-left: -60px;
-    bottom: 10%;
+    bottom: auto;
     height: 35px;
 }
 
@@ -508,10 +508,6 @@ footer>p {
         text-align: end;
         align-self: flex-end;
     }
-
-    #button-thanks {
-        bottom: 50%;
-        }
 
 
     /* ****************** classes.html ************** */
