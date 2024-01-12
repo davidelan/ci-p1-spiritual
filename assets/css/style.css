@@ -134,6 +134,22 @@ footer>p {
     margin: 50px auto;
 }
 
+#page>h2 {
+    margin-bottom: 20px;
+    margin-top: 150px;
+    text-align: center;
+    font-size: 320%;
+    font-family: 'Oswald', sans-serif;
+}
+
+#page>h3 {
+    margin-bottom: 70px;
+    margin-top: 0px;
+    text-align: center;
+    font-size: 320%;
+    font-family: 'Shadows Into Light', sans-serif;
+}
+
 #page-image {
     background: url('../images/yoga_photo_2.jpg') no-repeat bottom center / cover;
     height: 90vw;
