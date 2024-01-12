@@ -63,7 +63,7 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
     - The tagline "Elevate with Yoga & Meditation" appears on the home page and welcomes the user with an appealing message about the potential benefits of Yoga and Meditation.
 
       ![Tagline](documentation/supp-images/tagline_index.jpg)
-      
+
 
 - __F04 Company Ideals section__
 
@@ -72,3 +72,13 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
       ![Company Ideals](documentation/supp-images/studio-ideals.jpg)
 
 
+- __F05 Footer__
+
+    - The footer is simple and consistent in all three (plus the message confirmation page for the inquiry form in the contact page) so that it is easy to use and to reognize. 
+
+        - Stay in Touch - this area has links to social media sites associated with the organisation encouraging the user to keep connected.  The links will open in a new tab so that the user is not sent away from the company web page. The links currently just go to the social media main websites.
+
+      ![Footer](documentation/supp-images/footer.jpg)
+
+
+      
