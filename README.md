@@ -118,6 +118,9 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
 ## Design
 
 -   ### Imagery
-    - The three images slected for the 3 pages (two as background image and one as the page image) were chosen because they portray persons who engage in yoga activities and they are therefore eye-catching and inviting for the visitor. The sun and the moon associated with Yoga and Meditation in both the index and classes page gives a more pleasent and maybe spiritual look to the pages.  
+    -   The three images slected for the 3 pages (two as background image and one as the page image) were chosen because they portray persons who engage in yoga activities and they are therefore eye-catching and inviting for the visitor. The sun and the moon associated with Yoga and Meditation in both the index and classes page gives a more pleasent and maybe spiritual look to the pages.  
+
+-   ### Colour Scheme
+    -   The main scheme of the web site is a combination of background colour pink rgb(247, 197, 204) and gray #59606d for the fonts colour. There are a few exeptions in which a darker version of the gray was used #4b525e for a better contrast. The colors were chosen by me trying to convey a sense of calmness and relaxation which are typically associated with Yoga and Meditation.
 
     
