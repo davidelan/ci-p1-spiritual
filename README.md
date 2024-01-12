@@ -89,4 +89,19 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
 
        ![Menu Page](documentation/supp-images/classes_page.jpg)
 
-       
+
+- __F07 Contact Page - 'How to Find Us'__
+
+    - In the "How to Find Us" section of the page, there is a simple googlemap map which shows the location of the Yoga studio. If the "View larger map" is clicked, a new separate tab is open with the googlemap location. 
+
+      ![Find Us](documentation/supp-images/find_us.jpg)
+
+
+- __F08 Contact Page - 'Contact Us'__
+
+    - In the "Contact us" part of the Contact page the visitor can easily send a message to the Yoga studio by entering the name, the email address and the text message. Once the submit button is pressed a thanks confirmation web page will open (described below in section 09). 
+
+      ![Contact Us](documentation/supp-images/contact_us.jpg)
+
+      
+
