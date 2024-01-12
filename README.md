@@ -81,4 +81,12 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
       ![Footer](documentation/supp-images/footer.jpg)
 
 
-      
+      __F06 Classes Page__
+
+    - The classes page shows in a straight forward way the classes schedule for Yoga and the classes schedule for Meditation. The schedules are divided in two columns with the Yoga weekly classes on the left and the meditation ones in the left-hand side column.  
+    
+    - In the classes page there is a background image that shows a girl doing yoga. The image goes to the bottom of the page (not anymore as a background in small screens) 
+
+       ![Menu Page](documentation/supp-images/classes_page.jpg)
+
+       
