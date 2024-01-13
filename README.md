@@ -168,19 +168,34 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
 - [HTML Validator](https://validator.w3.org/)
 
     - result for index.html
-      ![HTML results index](documentation/validation-results/html_validation.jpg)
+      ![HTML results index](documentation/validation_results/html_validation.jpg)
     - result for classes.html
-      ![HTML results menu](documentation/validation-results/html_validation.jpg)
+      ![HTML results menu](documentation/validation_results/html_validation.jpg)
     - result for contact.html
-      ![HTML results contact](documentation/validation-results/html_validation.jpg)
+      ![HTML results contact](documentation/validation_results/html_validation.jpg)
 
     
 
 - [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
     - result for styles.css 
-      ![CSS results 1](documentation/validation-results/css-validation.jpg)
-      ![CSS results 2](documentation/validation-results/css-validation.jpg)
+      ![CSS results 1](documentation/validation_results/css_validation.jpg)
+      ![CSS results 2](documentation/validation_results/css_validation.jpg)
 
 
-      
+### Browser Compatibility
+
+- Testing has been carried out on the following browsers :
+    - Chrome Version 120.0.6099.217 (Official Build) (64-bit)
+    - Firefox Version 121.0.1 (64-bit)
+    - Edge Version 90.0.818.62 (Official build) (64-bit)
+    - Safari on macOS Catalina (Safari  Version 14.0.3)
+    
+
+### Known bugs
+
+- No known bugs
+
+
+
+
