@@ -132,3 +132,17 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
 -   ### Typography
     -   In order to import the fonts Oswald, (Lato only in the submitting form) and Shadows Into Light, two Google fonts were imported in the CSS style file. In addiction to the already established simple and modern feelin of Oswald, I wanted to give an extra more artistic touch with the Shadows Into Light font.
 
+-   ### Wireframes
+
+    -   #### Main Page Wireframes
+
+        ![Main](documentation/wireframes/home_all.png)
+
+    -   #### Menu Page Wireframes
+
+        ![Menu](documentation/wireframes/classes_all.png)
+
+    -   #### Contact Page Wireframes
+
+        ![Contact](documentation/wireframes/contact_all.png)
+
