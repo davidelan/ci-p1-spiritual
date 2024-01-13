@@ -180,7 +180,6 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
 
     - result for styles.css 
       ![CSS results 1](documentation/validation_results/css_validation.jpg)
-      ![CSS results 2](documentation/validation_results/css_validation.jpg)
 
 
 ### Browser Compatibility
