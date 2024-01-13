@@ -197,5 +197,29 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
 - No known bugs
 
 
+## Credits 
+
+### Code 
+- The menu and footer ideas were taken from the Love Running project [Love Running Project](https://github.com/davidelan/love-running)
+
+- The idea of the structure of the index.html was taken from the project of a previous student [Thrive](https://elainebroche-dev.github.io/ms1-thrive/menu.html)
+
+
+### Media 
+- The icons in the header, footer and on the back of the flip-cards were taken from [Font Awesome](https://fontawesome.com/)
+- The fonts used were imported from [Google Fonts](https://fonts.google.com/)
+
+- All images were downloaded from [Pexels](https://www.pexels.com) :
+
+    - Photo by Elina Fairytale: https://www.pexels.com/photo/woman-practicing-yoga-3823086/ 
+yoga_photo_2.png
+
+    - Photo by Alexy Almond: https://www.pexels.com/photo/woman-in-purple-long-sleeve-shirt-and-black-pants-lying-on-floor-3758156/ 
+      Used for hero image for classes.html yoga_class_photo_4_hero.png
+
+    - Photo by Monstera Production: https://www.pexels.com/photo/anonymous-woman-stretching-body-in-extended-child-s-yoga-pose-5331223/ 
+    Used for background image for contact.html spiritual_photo_1.jpg  
+
+
 
 
