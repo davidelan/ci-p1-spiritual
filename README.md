@@ -138,14 +138,14 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
 
         ![Main](documentation/wireframes/home_all.png)
 
-    -   #### Menu Page Wireframes
+    -   #### Classes Page Wireframes
 
         ![Menu](documentation/wireframes/classes_all.png)
 
     -   #### Contact Page Wireframes
 
         ![Contact](documentation/wireframes/contact_all.png)
-        
+
 
 ### Languages Used
 
