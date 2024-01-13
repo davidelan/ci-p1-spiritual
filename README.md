@@ -159,4 +159,17 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
 -   [Git:](https://git-scm.com/) was used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
 -   [GitHub:](https://github.com/) is used as the respository for the projects code after being pushed from Git.
 -   [Gimp:](https://gimp.org/) was used to create the wireframes during the design process.
+
     
+## Testing
+
+### Validator Testing
+
+- [HTML Validator](https://validator.w3.org/)
+
+    - result for index.html
+      ![HTML results index](documentation/validation-results/html_validation.png)
+    - result for classes.html
+      ![HTML results menu](documentation/validation-results/html_validation.png)
+    - result for contact.html
+      ![HTML results contact](documentation/validation-results/html_validation.png)
