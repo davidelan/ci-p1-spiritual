@@ -168,8 +168,19 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
 - [HTML Validator](https://validator.w3.org/)
 
     - result for index.html
-      ![HTML results index](documentation/validation-results/html_validation.png)
+      ![HTML results index](documentation/validation-results/html_validation.jpg)
     - result for classes.html
-      ![HTML results menu](documentation/validation-results/html_validation.png)
+      ![HTML results menu](documentation/validation-results/html_validation.jpg)
     - result for contact.html
-      ![HTML results contact](documentation/validation-results/html_validation.png)
+      ![HTML results contact](documentation/validation-results/html_validation.jpg)
+
+    
+
+- [CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+    - result for styles.css 
+      ![CSS results 1](documentation/validation-results/css-validation.jpg)
+      ![CSS results 2](documentation/validation-results/css-validation.jpg)
+
+
+      
