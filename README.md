@@ -145,4 +145,18 @@ YogaMedit is a website that gives visibility and describes the ( imaginary :-) )
     -   #### Contact Page Wireframes
 
         ![Contact](documentation/wireframes/contact_all.png)
+        
 
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries & Programs Used
+
+-   [Google Fonts:](https://fonts.google.com/) was used to import the 'Lato', 'Oswald' and  'Shadows Into Light' fonts into the style.css file which are used on all pages of the project.
+-   [Font Awesome:](https://fontawesome.com/) was used to add icons for aesthetic and UX purposes.
+-   [Git:](https://git-scm.com/) was used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
+-   [GitHub:](https://github.com/) is used as the respository for the projects code after being pushed from Git.
+-   [Gimp:](https://gimp.org/) was used to create the wireframes during the design process.
+    
